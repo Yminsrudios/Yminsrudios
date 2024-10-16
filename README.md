@@ -1,6 +1,7 @@
-## Tyruver
+#Tyruver
+__
 
-# my favorite programming languages
+## my favorite programming languages
 ## c ++
 
 ## java
@@ -12,7 +13,3 @@
 ## java script
 
 ## rust
-
-'''swift
- print("hello world")
- '''
