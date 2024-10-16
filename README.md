@@ -13,6 +13,6 @@
 
 ## rust
 
-'''
+'''swift
  print("hello world")
  '''
