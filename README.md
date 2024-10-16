@@ -1,5 +1,5 @@
-#Tyruver
-__
+# Tyruver
+___
 
 ## my favorite programming languages
 ## c ++
